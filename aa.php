@@ -9,9 +9,8 @@
 <body>
     <?php 
         echo '<h1>Teste da Linguagem HTML (HyperText Markup Language)</h1> ';
-        echo 'Autor: Gusta 777';
+        echo 'Autor: Gusta';
         echo 'Github:<a href="https://github.com/moreiragustavo">GitHub</a> ';
-        echo 'Instagram --><a href="https://www.instagram.com/gustaskr._/">Instagram</a>
     ?>
 </body>
 </html>
